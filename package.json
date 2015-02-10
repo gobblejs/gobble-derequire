@@ -1,0 +1,17 @@
+{
+  "name": "gobble-derequire",
+  "version": "0.1.0",
+  "description": "Remove require() calls with gobble and derequire",
+  "author": "Rich Harris",
+  "license": "MIT",
+  "repository": "https://github.com/gobblejs/gobble-derequire",
+  "keywords": [
+    "gobble"
+  ],
+  "dependencies": {
+    "derequire": "^1.2.1"
+  },
+  "files": [
+    "index.js"
+  ]
+}
