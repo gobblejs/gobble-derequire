@@ -1,6 +1,6 @@
 {
   "name": "gobble-derequire",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Remove require() calls with gobble and derequire",
   "author": "Rich Harris",
   "license": "MIT",
